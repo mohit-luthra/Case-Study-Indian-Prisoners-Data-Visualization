@@ -1,6 +1,5 @@
 # Indian Prisoners Abroad: A Silent Crisis
 
-![banner](./assets/banner.png)
 
 ## 📊 Data Analysis Project: Unveiling the Numbers, Stories, and the Urgent Need for Action
 
