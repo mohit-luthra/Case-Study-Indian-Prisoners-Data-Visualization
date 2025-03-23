@@ -164,9 +164,9 @@ Based on the data analysis, this project recommends:
 
 This case study was created by Mohit Luthra as part of a data analysis portfolio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Luthra-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-My_Repository-green)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Luthra-blue)](https://www.linkedin.com/in/mohit-l-578080252/)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Repository-green)](https://github.com/mohit-luthra)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red)](mailto:mohit.luthra2022@gmail.com)
 
 ---
 
